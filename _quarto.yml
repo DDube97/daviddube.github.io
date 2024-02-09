@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "David Dubé"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - research.qmd
+
+format:
+  html:
+    theme: vapor
+    css: styles.css
+    toc: true
+
+editor: visual
+

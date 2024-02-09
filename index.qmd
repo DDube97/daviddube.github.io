@@ -1,0 +1,10 @@
+---
+title: "David Dubé, PhD in Political Science - McGill University"
+about:
+ template: jolla
+ image: Gunnasaur.jpg
+ links: 
+   - icon: github
+---
+
+Welcome to my website. I work on political development and democratization trajectories in Central and Eastern Europe as well as autocratization in Russia.
