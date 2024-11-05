@@ -1,10 +1,14 @@
 ---
-title: "David Dubé, PhD in Political Science - McGill University"
+title: "David Dubé, PhD Candidate in Political Science - McGill University"
 about:
  template: jolla
- image: Gunnasaur.jpg
+ image: profile_pic.png
  links: 
    - icon: github
 ---
 
-Welcome to my website. I work on political development and democratization trajectories in Central and Eastern Europe as well as autocratization in Russia.
+Welcome to my site! I work in comparative political economy, focusing on issues surrounding informal economics, digitization and misinformation in Central, Eastern Europe and Eurasia. I'm interested in the interaction of these issue areas with state capacity, financial and digital literacy. In addition, I have a passion for computational methods, measurement challenges and the operationalization of natural language processing and machine learning models to issues of political science, notably misinformation.
+
+I am affiliated with the Centre for International Peace and Security Studies and I am a member of the Democracy, Transparency, Information Provision, and Participation lab, led by Prof. Aaron Erlich, a research lab affiliated with the Centre for the Study of Democracy and Citizenship in the Department of Political Science at McGill University.
+
+Outside academia, I enjoy cycling, being an occasional musician, as well as immersing myself in the complex art-science of baking.

@@ -1,0 +1,7 @@
+---
+title: "CV"
+format: html
+---
+
+<a href="files/CV_DavidDube.pdf" download target="_blank">Download CV</a>
+

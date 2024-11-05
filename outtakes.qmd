@@ -8,13 +8,9 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
-      - href: research.qmd
-        text: Research
-      - href: files/CV_DavidDube.pdf
-        text: CV
-        target: _blank  # Opens the CV in a new tab
+      - about.qmd
+      - research.qmd
+      
 
 format:
   html:
